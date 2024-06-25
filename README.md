@@ -4,7 +4,7 @@ Projeto desenvolvido com Kotlin(Java).
 
 ## ℹ️ Sobre o projeto
 
-Este projeto consiste em mostrar aplicação, na prática de Kotlin consumindo um pequeno repositório de jogos.
+Este projeto consiste em mostrar uma aplicação de Kotlin consumindo um pequeno repositório de jogos.
 
 ## 📝 Tecnologias
 
